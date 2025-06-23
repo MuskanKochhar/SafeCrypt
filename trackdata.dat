@@ -1,0 +1,47 @@
+{
+  "ajay": [
+    {
+      "name": "courseraajay.pdf",
+      "location": "C:/Users/VICTUS/OneDrive/Desktop/courseraajay.pdf",
+      "status": "Decrypted",
+      "visibility": "Visible",
+      "key_used": "-",
+      "path": "C:/Users/VICTUS/OneDrive/Desktop/courseraajay.pdf",
+      "is_folder": false,
+      "encrypted": false,
+      "hidden": false,
+      "key": null,
+      "editable": true
+    }
+  ],
+  "Muskan Kochhar": [
+    {
+      "name": "os_demo.txt",
+      "location": "C:/Users/kochh/OneDrive/Desktop/os_demo.txt",
+      "status": "Decrypted",
+      "visibility": "Visible",
+      "key_used": "-",
+      "path": "C:/Users/kochh/OneDrive/Desktop/os_demo.txt",
+      "is_folder": false,
+      "encrypted": false,
+      "hidden": true,
+      "key": null,
+      "editable": true
+    }
+  ],
+  "Ajay": [
+    {
+      "name": "file.txt",
+      "location": "C:/Users/kochh/OneDrive/Desktop/file.txt",
+      "status": "Decrypted",
+      "visibility": "Visible",
+      "key_used": "-",
+      "path": "C:/Users/kochh/OneDrive/Desktop/file.txt",
+      "is_folder": false,
+      "encrypted": false,
+      "hidden": false,
+      "key": null,
+      "editable": true
+    }
+  ]
+}
